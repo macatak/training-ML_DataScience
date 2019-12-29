@@ -7,4 +7,4 @@
 
 ## Notebooks beginning with a number are the individual chapters. They contain more subject specific and mostly base Python related
 
-## The notes documants follow the section notes. They are rough drafts.
+## The notes documents follow the section notes. They are rough drafts.
